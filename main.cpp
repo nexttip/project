@@ -1,6 +1,6 @@
 
-
+#include "print.h"
 int main()
 {
-	// Do something
+	print();
 }
